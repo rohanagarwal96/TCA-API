@@ -1,0 +1,8 @@
+without comments:
+from anywhere
+python C:\Users\rohha\Documents\pythonAPI\src\test_otc_Interval.py -f C:\Users\rohha\Documents\pythonAPI\csv\Interval_inputs.txt
+
+with comments:
+cd to pythonapi (cd C:\Users\rohha\Documents\pythonAPI)
+run setenv.bat (C:\Users\rohha\Documents\pythonAPI\setenv.bat)
+python test_otc_Interval.py -f C:\Users\rohha\Documents\pythonAPI\csv\Interval_inputs.txt
