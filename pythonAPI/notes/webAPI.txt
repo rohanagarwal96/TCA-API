@@ -1,0 +1,11 @@
+
+Interval
+louis.lovas@onetick.com - https://cloud2.onetick.com:443/omdwebapi/rest/?params={"context":"DEFAULT","query_type":"otq","otq":"1/8/otq/f6f410dc-308d-4275-8765-9a85fd12a6b6.otq::Futures_Interval","s":"20191119010000","e":"20191121010000","timezone":"GMT","response":"csv","compression":"gzip"}
+bassel@area11.io - https://cloud2.onetick.com:443/omdwebapi/rest/?params={"context":"DEFAULT","query_type":"otq","otq":"85/297/otq/2d5cbe9d-5b5a-472b-8603-a14fc4ec8382.otq::Futures_Interval","s":"20191119010000","e":"20191121010000","timezone":"GMT","response":"csv","compression":"gzip"}
+rohan@area11.io - https://cloud2.onetick.com:443/omdwebapi/rest/?params={"context":"DEFAULT","query_type":"otq","otq":"85/298/otq/32738a97-74c9-4435-934b-46929a2f34d0.otq::Futures_Interval","s":"20191119010000","e":"20191121010000","timezone":"GMT","response":"csv","compression":"gzip"}
+
+PointInTime
+louis.lovas@onetick.com - https://cloud2.onetick.com:443/omdwebapi/rest/?params={"context":"DEFAULT","query_type":"otq","otq":"1/8/otq/aac53df8-a081-4848-a87a-ba9d6b5862b5.otq::Futures_PointInTime","s":"20191119010000","e":"20191121010000","timezone":"GMT","response":"csv","compression":"gzip"}
+bassel@area11.io - https://cloud2.onetick.com:443/omdwebapi/rest/?params={"context":"DEFAULT","query_type":"otq","otq":"85/297/otq/3537cb9c-aaea-4b8e-841b-64cc1d2c721b.otq::Futures_PointInTime","s":"20191119010000","e":"20191121010000","timezone":"GMT","response":"csv","compression":"gzip"}
+rohan@area11.io - https://cloud2.onetick.com:443/omdwebapi/rest/?params={"context":"DEFAULT","query_type":"otq","otq":"85/298/otq/a1cd6085-ce95-43a6-82ab-f44b03783b68.otq::Futures_PointInTime","s":"20191119010000","e":"20191121010000","timezone":"GMT","response":"csv","compression":"gzip"}
+
